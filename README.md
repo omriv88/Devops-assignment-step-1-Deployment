@@ -11,7 +11,7 @@ Deploy nginx on k8s using terraform
 - 2 Access the Nginx web page from your computer's browser and ensure it works 
 - 3 Change the Nginx welcome text to "'your name' is doing the assignment.!"
 - 4 Use terraform to create deployments
-- 5 All changes should persist through minikube restart
+- 5 All changes should persist through kubernetes cluster restart
 
 
 
